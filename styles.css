@@ -1,0 +1,21 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.one {
+    background-color: red;
+}
+
+.two {
+    background-color: blue;
+}
+
+.three {
+    background-color: green;
+}
+
+.four {
+    background-color: yellow;
+}
